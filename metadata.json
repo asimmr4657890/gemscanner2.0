@@ -1,0 +1,7 @@
+{
+  "name": "GemEye: AI Gemologist & Market Analyst",
+  "description": "An expert-grade gemstone identification tool that analyzes visual features to provide species identification, 4C evaluation, and market value estimates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
